@@ -11,6 +11,7 @@
 2. インストールorアップデート
 `pod install ForistaSDK`or`pod update ForistaSDK`
 3. `Product`->`Clean Build Folder`->`Build`
+4. フォリスタコアライブラリ簡易説明書の初期化処理を実行
 
 - ビルドバージョン
 
