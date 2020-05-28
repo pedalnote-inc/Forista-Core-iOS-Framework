@@ -12,6 +12,13 @@
 `pod install ForistaSDK`or`pod update ForistaSDK`
 3. `Product`->`Clean Build Folder`->`Build`
 
+- ビルドバージョン
+
+| SDKバージョン | ビルド時Xcodeバージョン | ソースコード |
+| :-----------: | :---------------------: | :----------: |
+|     0.0.1     |     11.3.1 (11C504)     |   swift 5    |
+
+
 ### Contact
 
 - email: h.saijo@pedalnote.jp
