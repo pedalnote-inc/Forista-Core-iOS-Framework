@@ -4,9 +4,9 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "ForistaSDK"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "Use beacons"
-  spec.swift_version = "5.3"
+  spec.swift_version = "5"
 
 
   spec.homepage     = "https://www.pedalnote.jp"
