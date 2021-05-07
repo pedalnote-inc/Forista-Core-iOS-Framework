@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ForistaFramework"
-  s.version      = "0.2.10"
+  s.version      = "0.2.11"
   s.swift_version = "5.0"
   s.summary      = "ForistaFramework"
 #s.description  = <<-DESC
