@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "ForistaSDK"
-  spec.version      = "0.0.2"
+  spec.version      = "0.2.12"
   spec.summary      = "Use beacons"
   spec.swift_version = "5"
 
