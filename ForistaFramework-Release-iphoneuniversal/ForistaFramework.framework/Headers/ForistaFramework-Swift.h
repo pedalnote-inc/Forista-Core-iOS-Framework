@@ -226,6 +226,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) ForistaCoreS
 + (ForistaCoreSDK * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 - (void)zatDebugFlag:(BOOL)flag;
 /// **
+- (void)enableLogger:(BOOL)flag;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (NSInteger)setAppIDKEYWithAppID:(NSString * _Nonnull)appID appKey:(NSString * _Nonnull)appKey SWIFT_WARN_UNUSED_RESULT;
 - (NSInteger)registerNetWorkWithReset:(BOOL)reset SWIFT_WARN_UNUSED_RESULT;
